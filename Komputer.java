@@ -1,6 +1,6 @@
-// Nama : M. Hisyam Ahmad Hasan Hazmi
+// Nama : muhamad shalman
 // Kelas : TI 22 J
-// NIM : 20220040239
+// NIM : 20220040104
 
 
 public class Komputer{ //>>>>>>>> NO 1 Adalah ( Class Declaration )
